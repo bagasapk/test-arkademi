@@ -703,7 +703,7 @@ h4 {
     width: 68vw;
   }
   .slider3_img {
-    width: 68vw;
+    width: 55vw;
   }
   .clock_container.mobile {
     display: flex;
@@ -863,7 +863,7 @@ h4 {
     margin-right: 4.8vw;
   }
   .image_box_slider3:last-child {
-    margin-right: 2rem;
+    margin-right: 4.8rem;
   }
   .image_box_slider.slider2 {
     margin-left: calc(6vw + 10px);
@@ -873,9 +873,9 @@ h4 {
     font-size: 3vw;
   }
   .slider3_title{
-    font-size: 4vw;
+    font-size: 3vw;
   }
   .disc_total{
-    font-size: 6.5vw;
+    font-size: 4.5vw;
   }
 }
