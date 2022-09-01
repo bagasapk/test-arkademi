@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "testimoni": "Kursus online di Arkademi sangat berkesan, materinya simple tidak berbelit-belit. Mudah dicerna bagi para pemula seperti saya. Apalagi dengan sertifikat yang diberi setelah lulus dalam kuis. Sukses terus buat Arkademi!",
+    "profile": {
+      "userId": 1,
+      "name": "Nizar Putra",
+      "loc": "Bandung",
+      "desc": "Siswa kelas Bootstrap"
+    }
+  },
+  {
+    "id": 2,
+    "testimoni": "Materi kursus online di Arkademi sangat menarik, isinya daging semua dan layak dipelajari. Pematerinya juga berkompeten di bidangnya. Ditambah penyajian kelas sangat ciamik dan user friendly. Solusi buat pebisnis.",
+    "profile": {
+      "userId": 2,
+      "name": "Fuad Hasan",
+      "loc": "Cilegon",
+      "desc": "Siswa kelas Inbound Marketing"
+    }
+  },
+  {
+    "id": 3,
+    "testimoni": "Saya beruntung bergabung ke kursus online di Arkademi. Metode penyampaian sangat jelas singkat dan memudahkan belajar. Ditambah lagi tampilan presentasi yang membuat kita tidak jenuh dalam belajar online.",
+    "profile": {
+      "userId": 3,
+      "name": "Dewi Wijayanti ",
+      "loc": "Jakarta",
+      "desc": "Siswa kelas Brevet Pajak A/B"
+    }
+  }
+]

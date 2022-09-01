@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "kategori": "Bisnis",
+    "popular": true
+  },
+  {
+    "id": 2,
+    "kategori": "Keuangan",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "kategori": "Pengembangan Karier",
+    "popular": true
+  },
+  {
+    "id": 4,
+    "kategori": "Sertifikasi",
+    "popular": true
+  },
+  {
+    "id": 5,
+    "kategori": "Teknologi",
+    "popular": true
+  },
+  {
+    "id": 6,
+    "kategori": "Bahasa",
+    "popular": true
+  },
+  {
+    "id": 7,
+    "kategori": "Korporat",
+    "popular": false
+  },
+  {
+    "id": 8,
+    "kategori": "Hobi",
+    "popular": true
+  }
+]
