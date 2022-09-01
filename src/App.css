@@ -654,7 +654,7 @@ h4 {
     width: 70px;
   }
   .love {
-    margin-left: 2rem;
+    margin-inline: 0.5rem;
   }
   .pc {
     display: none;
@@ -664,6 +664,10 @@ h4 {
   }
   .sub_kategori.mobile {
     display: flex;
+    padding-inline: 1rem;
+  }
+  .sub_kategori p{
+    font-size: 0.8rem;
   }
   .sub_slider.mobile .image_slider {
     background: #acaeb2;
@@ -672,7 +676,7 @@ h4 {
   .slider_button_chevron_position,
   .slider2_button_chevron_position {
     margin-inline: 10px;
-    bottom: 10.5rem;
+    bottom: calc(10.5rem - 7vw);
   }
   .slider2_button_chevron_position {
     bottom: 3.75rem;
@@ -852,5 +856,8 @@ h4 {
   }
   .image_box_slider3:last-child {
     margin-right: 2rem;
+  }
+  .image_box_slider.slider2 p{
+    width: 100%;
   }
 }

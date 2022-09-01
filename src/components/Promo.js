@@ -13,15 +13,10 @@ const Promo = () => {
         })}
       </div>
       <div className="top_slider4">
-        <div
-          style={{ transform: `translate3d(${-index * 101.5}%, 0, 0)` }}
-          className="slider mobile"
-        >
-          <div className="sub_slider4 mobile">
-            {card.map((data) => (
-              <div key={data} className={`card_${data}`}></div>
-            ))}
-          </div>
+        <div className="sub_slider4 mobile">
+          {card.map((data) => (
+            <div key={data} className={`card_${data}`}></div>
+          ))}
         </div>
       </div>
     </>
