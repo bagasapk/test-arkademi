@@ -48,7 +48,7 @@ const Slider2 = () => {
     <>
       <div className="top_slider slider2">
         <div
-          style={{ transform: `translate3d(${-index * 104.8}%, 0, 0)` }}
+          style={{ transform: `translate3d(${-index * 93.5}vw, 0, 0)` }}
           className="slider"
         >
           <div className="sub_slider slider2">

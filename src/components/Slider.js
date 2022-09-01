@@ -70,7 +70,7 @@ const Slider = () => {
     <>
       <div className="top_slider">
         <div
-          style={{ transform: `translate3d(${-index * 101.5}%, 0, 0)` }}
+          style={{ transform: `translate3d(${-index * 100}vw, 0, 0)` }}
           className="slider pc"
         >
           <div className="sub_slider pc">
@@ -82,7 +82,7 @@ const Slider = () => {
           </div>
         </div>
         <div
-          style={{ transform: `translate3d(${-index * 103}%, 0, 0)` }}
+          style={{ transform: `translate3d(${-index * 100}vw, 0, 0)` }}
           className="slider mobile"
         >
           <div className="sub_slider mobile">

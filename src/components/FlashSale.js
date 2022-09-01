@@ -101,7 +101,7 @@ const FlashSale = () => {
       </div>
       <div className="top_slider3">
         <div
-          style={{ transform: `translate3d(${-index * 89}%, 0, 0)` }}
+          style={{ transform: `translate3d(${-index * 89}vw, 0, 0)` }}
           className="slider"
         >
           <div className="sub_slider3">
